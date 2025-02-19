@@ -27,3 +27,5 @@ Login com sucesso
     [Tags]    smoke
     Submit credentials        qa    xperience
     Modal have text           Tudo certo!
+
+# Testes de Actions
