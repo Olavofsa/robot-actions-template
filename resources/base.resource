@@ -7,7 +7,7 @@ Resource            ./actions.resource
 *** Variables ***
 ${BASE_URL}         https://loginxp.vercel.app
 ${BROWSER}          chromium
-${IS_HEADLESS}      False
+${IS_HEADLESS}      True
 
 *** Keywords ***
 Start Browser
