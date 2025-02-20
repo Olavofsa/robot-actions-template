@@ -1,5 +1,5 @@
 *** Settings ***
-Documentation       Main
+Documentation       Main Class.
 
 Library             Browser
 Resource            ./actions.resource
