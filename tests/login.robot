@@ -26,6 +26,6 @@ Senha deve ser obrigatória
 Login com sucesso
     [Tags]    smoke
     Submit credentials        qa    xperience
-    Modal have text           Tudo certo!
+    Modal have text           Tudo certis!
 
 # Testes de Actions
