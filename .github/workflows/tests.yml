@@ -50,9 +50,9 @@ jobs:
       uses: actions/upload-artifact@v4.6.0
       if: always()
       with:
-        name: Test report
+        name: Chrome Test report
         path: logs
-
+jobs:
   firefox:
 
     runs-on: ubuntu-latest
@@ -93,5 +93,5 @@ jobs:
       uses: actions/upload-artifact@v4.6.0
       if: always()
       with:
-        name: Test report
+        name: Firefox Test report
         path: logs
