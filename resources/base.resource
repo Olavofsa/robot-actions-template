@@ -16,4 +16,4 @@ Start Browser
 
 Finish Browser
     Take Screenshot    fullPage=true
-    #  Comentando .
+    
