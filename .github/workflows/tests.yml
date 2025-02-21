@@ -2,9 +2,10 @@ name: E2E Testes
 
 on:
   push:
-    branches: [ "main" ]
+    branches: [ "developer" ]
   pull_request:
-    branches: [ "main" ]
+    branches: [ "developer" ]
+  workflow_dispatch:
 
 jobs:
   chrome:
